@@ -6,6 +6,10 @@
   padding: 10px;
   margin: 0;
 }
+.hov{
+  text-align: center;
+  margin-bottom: 30px;
+}
 #image {
   max-width: 100%;
   display: block;
